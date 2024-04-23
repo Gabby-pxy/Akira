@@ -6,7 +6,7 @@ app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Root route handler to serve the HTML file
+
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
 });
