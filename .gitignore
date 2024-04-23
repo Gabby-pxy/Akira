@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Environment configuration
+.env
+
+# Generated files
+cats.json
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs/
+
+# IDE files
+.vscode/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn debug log
+yarn-debug.log*
+
+# Ignore yarn error log
+yarn-error.log*
