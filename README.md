@@ -7,7 +7,7 @@ Run `npm install`
 Either download as a docker image or run through `index.html`
 
 Utilize workload creation on Contol Plane:
-Example here: https://cat-demo-xa4jtht347cc2.cpln.app
+n/a
 (Only enable for those on the west coast)
 
 
